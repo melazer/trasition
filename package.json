@@ -1,0 +1,22 @@
+{
+  "name": "transition",
+  "version": "1.0.0",
+  "description": "Project using transitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melazer/trasition.git"
+  },
+  "author": "Alisson (melazer)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melazer/trasition/issues"
+  },
+  "homepage": "https://github.com/melazer/trasition#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
