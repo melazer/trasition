@@ -5,13 +5,13 @@ The better transition using javaScript
 
 # Techs:
 
-## Parcel-bundler:
+## [Parcel-bundler](https://parceljs.org/) :
 - multicore compilation, and a filesystem cache for fast rebuilds even after a restart.
 
-## Gsap:
+## [Gsap](https://greensock.com/gsap/):
 - Professional-grade JavaScript animation for the modern web
 
-## dogstudio:
+## [dogstudio](https://highway.js.org/):
 - ith beautiful transitions on our websites. 
 
 ## Where you can learn:
