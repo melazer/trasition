@@ -6,7 +6,7 @@ The better transition using javaScript
 # Techs:
 
 ## Parcel-bundler:
--multicore compilation, and a filesystem cache for fast rebuilds even after a restart.
+- multicore compilation, and a filesystem cache for fast rebuilds even after a restart.
 
 ## Gsap:
 - Professional-grade JavaScript animation for the modern web
